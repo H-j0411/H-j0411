@@ -1,8 +1,15 @@
+## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=H-j0411&theme=blue-green&show_icons=true" align="left" width="48%"/>
+<a href="https://github.com/ishaileshmishra/ishaileshmishra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaileshmishra&hide=html,gdscript,roff,latte,qml,asp,swift,objective-c,kotlin,shell,java,css,scss,javascript,c,c%2B%2B,c%23,batchfile,cmake,ruby&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/ishaileshmishra/ishaileshmishra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishaileshmishra&show_icons=true&theme=radical&line_height=27&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="talhakerpicci's github stats" />
+</a>
+<a href="https://github.com/ishaileshmishra/ishaileshmishra">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishaileshmishra&theme=dark" alt="talhakerpicci's github stats" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMILES00714&layout=compact" align="left" 
-width="47%"/>
 
 <br/>
 
